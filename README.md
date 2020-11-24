@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![GitHub Logo](/proca/proca-logo.png)
-Format: ![Alt Text](url)
+Format: /proca/proca-logo.png](/proca/proca-logo.png)
 
 
 
