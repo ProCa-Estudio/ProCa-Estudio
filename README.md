@@ -1,6 +1,6 @@
 Temporalmente desactualizado y con errores enormes, lo siento de veras, ponte en contacto conmigo por discord gracias ㄨποsε#3270
 
-## Soy Jesús, tengo habidad en diseño y desarrollo de robótica e Iot además soy desarrollador fullstack con experiencia en:
+## Soy Jesús, tengo habilidad en diseño y desarrollo de robótica e Iot además soy desarrollador fullstack con experiencia en:
 
 ### Apartados:
 
